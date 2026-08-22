@@ -36,7 +36,7 @@ function AgentUI({ session }) {
         <div className="brand">
           <div className="logo">✦</div>
           <div>
-            <div className="brand-name">Gemini Voice Agent</div>
+            <div className="brand-name">Isaac Voice Agent</div>
             <div className="brand-sub">LiveKit + Gemini + Web Search</div>
           </div>
         </div>
@@ -138,7 +138,7 @@ function AgentUI({ session }) {
       </main>
 
       <footer>
-        Powered by LiveKit · Gemini · Olostep
+        Powered by Isaac
       </footer>
 
       <RoomAudioRenderer />
